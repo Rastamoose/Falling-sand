@@ -1,3 +1,3 @@
 # Falling-sand
 
-![Project screenshot][res/img/Demo.png]
+![Project screenshot][res/img/demo.png]
